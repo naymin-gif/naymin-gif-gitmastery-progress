@@ -1,0 +1,28 @@
+[
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1786954621.852589,
+    "completed_at": 1786954626.528878,
+    "comments": [
+      "New grocery list items added to shopping-list.txt are not committed.",
+      "Grocery list items removed from shopping-list.txt are not committed."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1786954835.668868,
+    "completed_at": 1786954838.230825,
+    "comments": [
+      "Great work! You have successfully used `git add` and `git commit` to modify the shopping list! Keep it up!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1786956382.090745,
+    "completed_at": 1786956384.325121,
+    "comments": [],
+    "status": "Completed"
+  }
+]
