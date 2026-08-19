@@ -181,5 +181,14 @@
       "Exercise is not a Git repository"
     ],
     "status": "Error"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1787127876.693193,
+    "completed_at": 1787127878.695877,
+    "comments": [
+      "You successfully used git init to initialize this folder as a Git repository!"
+    ],
+    "status": "Completed"
   }
 ]
