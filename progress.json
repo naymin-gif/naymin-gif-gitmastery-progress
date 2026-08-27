@@ -302,23 +302,5 @@
       "Great work comparing commits in git history!"
     ],
     "status": "Completed"
-  },
-  {
-    "exercise_name": "side-track",
-    "started_at": 1787848193.57132,
-    "completed_at": 1787848198.534036,
-    "comments": [
-      "You have not fixed the greet function in greet.py"
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "side-track",
-    "started_at": 1787848547.737026,
-    "completed_at": 1787848552.876647,
-    "comments": [
-      "You have not fixed the greet function in greet.py"
-    ],
-    "status": "Incomplete"
   }
 ]
